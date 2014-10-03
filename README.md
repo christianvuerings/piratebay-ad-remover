@@ -1,6 +1,6 @@
-# Pirate Bay Ad Remove
+# Pirate Bay Ad Remover
 
-![JIRA ](src/piratebay-ad-remover-64.png)
+![Pirate Bay Ad Remover](src/piratebay-ad-remover-64.png)
 
 [Download](https://chrome.google.com/webstore/detail/lloolcmnedpjhdcjpjoelobpagijonnp)
 
