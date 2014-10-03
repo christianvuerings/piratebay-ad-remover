@@ -19,6 +19,8 @@
 // @match          https://*.thepiratebay.sx/*
 // @match          http://*.depiraatbaai.be/*
 // @match          https://*.depiraatbaai.be/*
+// @match          http://194.71.107.80/*
+// @match          https://194.71.107.80/*
 // @include        http://*thepiratebay.ac/*
 // @include        https://*thepiratebay.ac/*
 // @include        http://*thepiratebay.pe/*
@@ -35,6 +37,8 @@
 // @include        https://*thepiratebay.is/*
 // @include        http://*thepiratebay.sx/*
 // @include        https://*thepiratebay.sx/*
+// @include        http://194.71.107.80/*
+// @include        https://194.71.107.80/*
 // ==/UserScript==
 
 (function(){
