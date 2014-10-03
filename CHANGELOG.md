@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Add added explicit ip to list of mirrors #1 (@wouterverweirder)
+
 ## 1.0.0
 
 - Use semver
